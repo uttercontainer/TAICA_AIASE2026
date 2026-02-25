@@ -58,7 +58,7 @@
 |:---:|------|:---:|------|
 | 8 | CI/CD、MLOps、LLMOps | 3h | GitHub Actions / GitLab CI、Docker 化與環境建置、MLflow / promptfoo、模型行為監控與 Regression Test、Microservice deployment pipeline |
 | 9 | 資料庫系統與向量資料庫 | 3h | Embedding / HNSW / Retrieval、RAG pipeline（chunking → index → rerank）、Retrieval microservice |
-| 10 | Invited Talk (Apache Taipei Funder)| 3h | Kafka/Iceberg/Airflow |
+| 10 | Invited Talk (Apache Taipei Funder, 「源來適你」Kafka Team)| 3h | Kafka/Iceberg/Airflow |
 | 11 | Invited Talk (AWS MSP) | 3h | AWS EC2 / ECS / Lambda、IAM / S3 / RDS、Kiro 環境、成本估算與 auto scaling、CDN / Cache |
 
 ---

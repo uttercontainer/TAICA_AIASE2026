@@ -56,7 +56,7 @@ ___
 ## 課程要求
 
 - 具備一定程式設計能力
-- 需有自動系統TroubleShooting能力
+- 需有自主Trouble Shooting，解決系統疑難病症的能力
 - 具備 Web 技術（HTML / CSS / JS）與 GitHub 使用經驗
 - 對雲端服務有初步認識
 
