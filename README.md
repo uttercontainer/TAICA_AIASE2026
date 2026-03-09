@@ -20,6 +20,7 @@
 ---
 
 ## Announcement
+- 因應各校加退退時間不一，有部分上週才加入的同學反應來不及HW1的繳交，我們開放HW1延後到本週五晚上23:59 (3/13 23:59)。這是最後deadline。 Details of [HW1](homeworks/HW1.md)
 - 請欲修課同學，先到[google form](https://docs.google.com/forms/d/1x0sxz8-SWJk2uH3WXBDiSvfn13hTNDwZq_pkUp6JRPM/edit)填寫你的個人資料
 - 3/10 作業1繳交
 ___
