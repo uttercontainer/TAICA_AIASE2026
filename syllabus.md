@@ -68,8 +68,8 @@
 |:---:|------|:---:|------|
 | 12 | Agent Workflow、MCP、ADK、Agent-to-Agent 協作、LLM Security、Jailbreak 與 Response Auditing| 3h | Agent 架構（Planner / Tool / Critic）、MCP 工具抽象層與資源管理、ADK / Vertex AI Agent Builder、agent-to-agent workflow |
 | 13 | Observability | 3h | LLM UX / error recovery、延遲優化 / Queue、logs / metrics / distributed tracing、token 成本與效能指標、Online A/B testing |
-| 14 | 分散式 AI Infra 與工作流程 | 3h | Ray tasks / actors、Ray Serve + scaling、多檔案多任務平行 LLM pipeline、Ray Worker microservice |
-| 15 | Invited Talk (Sowork.AI) TBD | 3h | Marketing + AI
+| 14 (2026/5/27) | Invited Talk (Sowork.AI) TBD | 3h | Marketing + AI
+| 15 | 分散式 AI Infra 與工作流程 | 3h | Ray tasks / actors、Ray Serve + scaling、多檔案多任務平行 LLM pipeline、Ray Worker microservice |
 
 ---
 
