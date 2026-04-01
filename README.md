@@ -20,13 +20,9 @@
 ---
 
 ## Announcement
+- 4/8 停課一週
 - HW3 公布：Deadline 4/14 23:59 (Phase 1) and 4/21 (Phase 2) - Build Your Personal RAG — From Raw Data to Agent Skill. Details of [HW3](homeworks/HW3.md)
 - We summarize [HW1 result here](https://ktchuang.github.io/TAICA_AIASE2026/homeworks/HW1_result/). Details of each student will be checked and sent to each individual soon.
-- 3/18 Invited Talk
- <p align="center">
-  <img src="318_invitedtalk.png" width="300">
-</p>
-
 - HW2 公布：規格 SDD 優化實作（Spec-Driven Development — From v1.0 to v2.0）。v1.0 截止 3/20 23:59，v2.0 截止 3/31 23:59。Details of [HW2](homeworks/HW2.md)
 
 - 因應各校加退退時間不一，有部分上週才加入的同學反應來不及HW1的繳交，我們開放HW1延後到本週五晚上23:59 (3/13 23:59)。這是最後deadline。 Details of [HW1](homeworks/HW1.md)
